@@ -1,9 +1,9 @@
-# 目录
+# 博客主页
 
-## Redis
--[redis](redis/redis.md)
-- redis持久化
-- redis复制
-- redis哨兵
-- redis事务
-- redis缓存常见问题
+# Redis
+- [redis](redis/redis.md)
+- [redis持久化](redis/redis持久化.md)
+- [redis复制](redis/Redis复制.md)
+- [redis哨兵](redis/redis哨兵.md)
+- [redis事务](redis/redis事务.md)
+- [redis缓存常见问题](redis/redis缓存常见问题.md)
