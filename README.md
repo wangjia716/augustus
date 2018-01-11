@@ -1,7 +1,7 @@
-# augustus
+# 目录
 
 ## Redis
-- redis
+-[redis](redis/redis.md)
 - redis持久化
 - redis复制
 - redis哨兵
